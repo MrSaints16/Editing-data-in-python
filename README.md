@@ -23,5 +23,5 @@ Again, this is an easy process which requires assigning a new variable with new 
 These functions are used to sort, find and highlight data in a dataset. Groupby() function is used to sort data using catagorical inputs in a column as shown in the code. When function is used to further sort data based on conditions set by the user, as in the code, data is sorted and given a rank based on the amount of salary. Where function is used to sort data based on single identifier such as male in the code example. 
 # Author 
 This code is written by Saksham Singh 
-#Acknowledgement 
+# Acknowledgement 
 This code was inspired by professor Omar Altrad and his lab4 tutorial
