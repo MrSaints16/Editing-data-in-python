@@ -8,4 +8,11 @@ TO run this code, you need an IDE such as pycham and a dataset in .cvs format
 To install pycharm go to [PyCharm](https://www.jetbrains.com/pycharm/), download and install it on your system 
 After installing, you're all set
 ## Running the Tests 
-Before we begin install the 
+Before we begin import the libraries in the environment using these commands
+import pandas as pd
+import numpy as np
+Now our environment is set and ready to work on. First read the dataset using this code checking to see if it has been imported
+# Read the csv file 
+raw_df = pd.read_csv(File_1)
+raw_df.head()
+We can add benchmark 
